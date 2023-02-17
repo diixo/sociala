@@ -224,7 +224,7 @@
 }
 
 .text-ornage {
-  color: #ff8c00 !important;
+  color: #ff8000 !important;
 }
 
 .text-black {
@@ -316,7 +316,7 @@
 }
 
 .bg-orange {
-  background-color: #ff8c00 !important;
+  background-color: #ff8000 !important;
 }
 
 .bg-cyan {
@@ -456,7 +456,7 @@
 .color-theme-blue {
   --theme-color: #09A4DE;
   --theme-color-rgb: 33, 150, 243;
-  --theme-color-shade: #09f;
+  --theme-color-shade: #0990BE;
   --theme-color-tint: #1E74FD;
 }
 
