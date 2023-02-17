@@ -256,11 +256,11 @@
 }
 
 .bg-gold-gradiant {
-  background: linear-gradient(to right, #f2994a, #f2c94c) !important;
+  background: linear-gradient(to right, #f7b200, #ffec3a) !important;
 }
 
 .bg-red-gradiant {
-  background: linear-gradient(to right, #e44d26, #f16529) !important;
+  background: linear-gradient(to right, #DC4238, #E91C61) !important;
 }
 
 .bg-mini-gradiant {
@@ -268,7 +268,19 @@
 }
 
 .bg-blue-gradiant {
-  background: linear-gradient(to right, #0575e6, #021b79) !important;
+  background: linear-gradient(to right, #09A4DE, #226090) !important;
+}
+
+.bg-green-gradiant {
+  background: linear-gradient(to right, #89C048, #0E9B57) !important;
+}
+
+.bg-orange-gradiant {
+  background: linear-gradient(to right, #FE9601, #FF5521) !important;
+}
+
+.bg-violet-gradiant {
+  background: linear-gradient(to right, #AF99DA, #9C27B3) !important;
 }
 
 .bg-grey {
