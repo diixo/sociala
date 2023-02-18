@@ -252,7 +252,7 @@
 }
 
 .bg-primary-gradiant {
-  background: linear-gradient(135deg, var(--theme-color), var(--theme-color-shade)) !important;
+  background: linear-gradient(to right, var(--theme-color), var(--theme-color-shade)) !important;
 }
 
 .bg-gold-gradiant {
